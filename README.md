@@ -1,6 +1,6 @@
 # Post-Earnings Announcement Drift: An Event Study
 
-[![Open In Colab](https://colab.research.google.com/github/RickR-cloud/earnings-drift-study-/blob/main/Earnings_project.ipynb)
+[![Open In Colab][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RickR-cloud/earnings-drift-study-/blob/main/Earnings_project.ipynb)
 
 Testing whether stocks that beat earnings expectations keep drifting upward in the days that follow — and whether that difference is real or just noise. Built in Python as a personal learning project.
 
